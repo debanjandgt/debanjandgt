@@ -40,5 +40,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjandgt&" alt="debanjandgt" /></p>
 
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/debanjandgt/debanjandgt/output/github-contribution-grid-snake.svg)
