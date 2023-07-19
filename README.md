@@ -32,6 +32,10 @@
 <h3 align="left">Support:</h3> 
 <p><a href="https://www.buymeacoffee.com/debanjandgt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="debanjandgt" /></a></p><br><br>
 
+
+
+
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<debanjandgt>)](<https://auth.geeksforgeeks.org/user/debanjandgt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user>)
 ![](https://leetcard.jacoblin.cool/debanjandgt?ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debanjandgt&show_icons=true&locale=en&layout=compact" alt="debanjandgt" /></p>
