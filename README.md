@@ -35,8 +35,6 @@
 
 
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<debanjandgt>)](<https://auth.geeksforgeeks.org/user/debanjandgt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user>)
-![](https://leetcard.jacoblin.cool/debanjandgt?ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debanjandgt&show_icons=true&locale=en&layout=compact" alt="debanjandgt" /></p>
 
@@ -44,3 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjandgt&" alt="debanjandgt" /></p>
 
+
+
+[![Debanjan's GeeksForGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<debanjandgt>)](<https://auth.geeksforgeeks.org/user/debanjandgt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user>)
+![](https://leetcard.jacoblin.cool/debanjandgt?ext=heatmap)
